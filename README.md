@@ -10,4 +10,5 @@ helps iin learning coding and have vast database of theory and questions for fre
 <img width="1920" height="1080" alt="Screenshot 2026-04-22 200111" src="https://github.com/user-attachments/assets/3ae70c4d-6b5d-49d2-ae0a-9bc5dfa7c5d5" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-22 200046" src="https://github.com/user-attachments/assets/c5d5a14f-7b51-4c80-bbef-595fbf6bd6cf" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-22 200031" src="https://github.com/user-attachments/assets/3693ae79-08ab-4131-b3de-714c0426e475" />
+<img width="1919" height="984" alt="Screenshot 2026-04-22 233037" src="https://github.com/user-attachments/assets/c25b0676-5dc0-461e-a0b4-ba897dcc877d" />
 
