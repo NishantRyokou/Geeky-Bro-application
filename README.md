@@ -1,5 +1,5 @@
 # Geeky Bro application
-helps iin learning coding and have vast database of theory and questions for free.Open source application.
+helps in learning coding and have vast database of theory and questions for free.Open source application at your pc.
 <img width="1920" height="1080" alt="Screenshot 2026-04-22 200011" src="https://github.com/user-attachments/assets/6bafcd41-8760-464f-bbb5-3a2abe330f4f" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-22 200004" src="https://github.com/user-attachments/assets/196a8172-4d92-4615-8e2c-08a551fa6a5b" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-22 195955" src="https://github.com/user-attachments/assets/78ebdf7f-b5ac-4dd2-8734-e930715eb88b" />
