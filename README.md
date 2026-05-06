@@ -1,5 +1,32 @@
 # Geeky Bro application
 helps in learning coding and have vast database of theory and questions for free.Open source application at your pc.
+Key Features:
+
+📚 Theory Modules – Concise, step-by-step explanations with examples.
+
+📝 Quizzes & MCQs – Multiple-choice and short-answer quizzes to test understanding.
+
+🎯 Practice Papers – Full-length question sets for exam-style preparation.
+
+🔄 Progressive Roadmaps – Beginner → Intermediate → Advanced learning paths.
+
+📊 Performance Tracking – Track quiz scores and practice paper results to identify strengths and weaknesses.
+
+🧩 Interactive Learning – Coding tasks, problem-solving exercises, and revision checkpoints.
+
+Purpose:  
+To provide learners with a complete study ecosystem that blends theory, practice, and assessment. The app ensures that users don’t just read concepts but actively apply them through quizzes and practice papers, making it ideal for exam preparation, skill-building, and self-paced learning.
+
+Target Audience:
+
+Students preparing for exams (school, college, competitive).
+
+Self-learners exploring new subjects like programming, logic, or theory-heavy domains.
+
+Educators who want structured content for teaching and assessment.
+
+Outcome:  
+By combining roadmaps + theory + quizzes + practice papers, LearnPath transforms passive reading into active learning, helping users build confidence and achieve measurable progress.
 <img width="1920" height="1080" alt="Screenshot 2026-04-22 200011" src="https://github.com/user-attachments/assets/6bafcd41-8760-464f-bbb5-3a2abe330f4f" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-22 200004" src="https://github.com/user-attachments/assets/196a8172-4d92-4615-8e2c-08a551fa6a5b" />
 <img width="1920" height="1080" alt="Screenshot 2026-04-22 195955" src="https://github.com/user-attachments/assets/78ebdf7f-b5ac-4dd2-8734-e930715eb88b" />
